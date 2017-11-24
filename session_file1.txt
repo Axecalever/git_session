@@ -1,3 +1,2 @@
-HEAD
-Conflict Step 1 :B2
-B3
+Conflict Step 1 :B2 (2)
+Conflict Step 2 :B3 (2)
