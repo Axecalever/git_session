@@ -1,4 +1,6 @@
 Conflict Step 1 :B2 (2)
+<<<<<<< Updated upstream
 Conflict Step 2 :B3 (2)
+=======
 Modify:1
-
+>>>>>>> Stashed changes
