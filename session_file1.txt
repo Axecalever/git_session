@@ -3,3 +3,4 @@ Conflict Step 1 :B2 (2)
 Modify:1
 Modify:2
 Updated Remote 1
+adding commits on remote
